@@ -1,0 +1,8 @@
+{
+    "name" : "pronet",
+    "desc" : "Network tool",
+    "version" : "1.0",
+    "author" : "zxhckgmg",
+    "url" : "https://github.com/zxhckgmg/forp_pacman_packages",
+    "requires" : ["request"]
+}
