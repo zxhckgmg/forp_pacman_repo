@@ -1,9 +1,3 @@
-{
-	"packages":{
-        "pronet" : "packages/pronet.json"
-    }
-
-
-
-
-}
+ {
+	 "pronet":"packages/pronet.json"
+ }
